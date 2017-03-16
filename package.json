@@ -16,10 +16,9 @@
     "@angular/compiler": "^2.4.0",
     "@angular/core": "^2.4.0",
     "@angular/forms": "^2.4.0",
-    "@angular/http": "^2.4.0",
     "@angular/platform-browser": "^2.4.0",
     "@angular/platform-browser-dynamic": "^2.4.0",
-    "@angular/router": "^3.4.0",
+    "sql-parser": "^0.5.0",
     "core-js": "^2.4.1",
     "rxjs": "^5.0.1",
     "ts-helpers": "^1.1.1",
@@ -41,6 +40,9 @@
     "protractor": "~5.1.0",
     "ts-node": "1.2.1",
     "tslint": "^4.3.0",
-    "typescript": "~2.0.0"
+    "typescript": "~2.0.0",
+    "gulp": "^3.9.1",
+    "gulp-conventional-changelog": "^1.1.0",
+    "gulp-load-plugins": "^1.4.0"
   }
 }
